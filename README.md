@@ -35,8 +35,9 @@ A desktop-based **Healthcare Management System** built using **Java Swing** and 
 
 ### 🛠 Admin Module
 
-* Manage doctors and patients
-* Monitor system data
+* Add new patient registration
+* Manage patients data
+* Manage Appointments
 
 ---
 
@@ -61,7 +62,6 @@ A desktop-based **Healthcare Management System** built using **Java Swing** and 
 * **Frontend:** Java Swing (GUI)
 * **Backend:** Java (JDBC)
 * **Database:** MySQL
-* **Tools:** Git, GitHub
 
 ---
 
@@ -111,19 +111,17 @@ The system uses a relational database with the following tables:
 * Clean separation of roles and responsibilities
 * Real-world database relationships (FK constraints)
 * Scalable structure for future enhancements
-* Practical implementation of CRUD operations
 
 ---
 
 ## 📈 Future Improvements
 
 * Appointment approval system for doctors
+* Bill generation
 * Search and filtering features
 * UI enhancement using modern frameworks
-* Web-based version (Spring Boot / React)
+* Web-based version 
 
 ---
-
-## 👩‍💻 Author
 
 Developed for college project.
